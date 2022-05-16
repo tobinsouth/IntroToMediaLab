@@ -13,4 +13,4 @@ def hello_world_base(code):
 	return(render_template('index.html', code=code))
 
 if __name__ == '__main__':
-	app.run()
+	app.run('0.0.0.0')
