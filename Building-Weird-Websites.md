@@ -46,7 +46,7 @@ you can sing JQuery you can change your html without messing too much.
 
 
 # Other Stuff
-* [TailwindCSS](https://tailwindcss.com) is a great way to add style without messing too much with html. This pairs really nice with any html. 
+* [TailwindCSS](https://tailwindcss.com) is a great way to add style without messing too much with html. This pairs really nice with any html. There are lot's of [templates and resources](https://www.tailwindtoolbox.com) you can use as well.
 * Keep all your credentials in some `creds.?` file and put that in your `.gitignore`.
 * You should think about the cyber security at some point. Maybe ask someone about that.
 
