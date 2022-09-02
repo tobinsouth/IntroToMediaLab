@@ -1,4 +1,6 @@
 # How to build a random website quickly
+This was a resource made based on a small workshop run by Ziv Epstien extra input from Dan Calacci. It's an example of a small hacky toolkit that is useful to know and share around here. For Media Lab folks, may attention to 'Getting your domain' below.
+
 
 # The HTML + Python Life
 
