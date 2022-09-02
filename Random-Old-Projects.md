@@ -1,7 +1,8 @@
-# A _very incomplete_ of random weird old projects at the Media Lab
+# A \~_very incomplete_\~ of random weird old projects at the Media Lab
+## 🤖🦿🌱🧠 🎹📲🎻📺🔐
 
-Much more to do here
 
+Much more to do here.
 
 
 
