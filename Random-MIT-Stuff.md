@@ -7,7 +7,7 @@ Yes things exist outside the Media Lab.
 * Super close to Media Lab but closes early.
 
 ### Alumni-Wang Gym
-While there is the large and famous Z-Center / DuPont Center if you want to excerise, there is also a lesser know Alumni-Wang Gym. 
+While there is the large and famous Z-Center / DuPont Center if you want to excerise, there is also a lesser know Alumni-Wang Gym. In the Stata center right near ML.
 * You can check the [pool schedule here](https://www.mitrecsports.com/pool-schedule-aw/?week=1)
 * They have towel service for like $4 a month with unlimited towels.
 * Not open on weekends (check this).
