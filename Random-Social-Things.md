@@ -4,8 +4,9 @@ Lots of weird things happen in the Media Lab, and it can be hard to keep track o
 Here is a non-exhaustive collection of interestign stuff that happens sometimes, with links to things.
 
 ### Studcom
+Studcom is how we colloquially refer to the MIT Media Lab's Student Committee. We are an open and welcoming group of students interested in building and maintaining the student community at the Lab. We administer a budget available to any student with an idea (a project or event) that builds community. Studcom is also responsible for organsiing 99Fridays and has created many of the weirdest and wackiest events and projects to come out of the media lab.
 
-studcom.media.mit.edu
+Studcom operates as a direct democracy through mailing lists `studcom@media.mit.edu` and note taking on the open etherpad website at [studcom.media.mit.edu](studcom.media.mit.edu).
 
 
 ### 99 Fridays
@@ -18,7 +19,6 @@ You can see photos in the [`images`](/images) folder.
 ### Sci-Fi Library
 The SciFi Library (scifilib), located in E15-384, is a space for the community to learn about the past, and get inspired to create the future. The Library is scaffolded a generously donated collection of hundreds of science fiction books, which span many divergent possibilities for what the future might hold. To surface many of the whacky ideas lost to the sands of time, it also contains a ecclectic collection of artifacts from long gone groups (such as Design Fiction and Scalable Cooperation). 
 [scifilib.media.mit.edu](scifilib.media.mit.edu)
-
 
 
 ## Cool things in our building
