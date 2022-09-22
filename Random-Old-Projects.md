@@ -15,3 +15,8 @@ https://cargocollective.com/jcherston/PongCam
 ### FlipFeed
 
 https://www.media.mit.edu/projects/flipfeed/overview/
+
+
+### A Collection of old WIRED articles written by Nicholas Negroponte
+
+https://web.media.mit.edu/~nicholas/Wired/
