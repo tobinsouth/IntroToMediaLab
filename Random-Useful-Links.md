@@ -21,7 +21,7 @@ Some useful stuff:
 I often find myself needing a link that was sent one time to a Media Lab website that turns out to be absolutely critical and I can never find again. Here are some of those pages:
 * [What MAS courses do you need to take?](https://www.media.mit.edu/posts/registration-information/)
 * [MAS Quick Links page](https://www.media.mit.edu/posts/quick-links/)
-
+* [Media Lab Logos](https://www.media.mit.edu/posts/identity-materials/)
 
 ### Random Other
 
