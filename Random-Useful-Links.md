@@ -23,6 +23,13 @@ I often find myself needing a link that was sent one time to a Media Lab website
 * [MAS Quick Links page](https://www.media.mit.edu/posts/quick-links/)
 * [Media Lab Logos](https://www.media.mit.edu/posts/identity-materials/)
 
+
+### Plan Courses
+It's honestly really hard to choose from the hundreds of incredible courses. Hence the expression of [''drinking from a firehose''](http://hacks.mit.edu/Hacks/by_year/1991/fire_hydrant/).
+* [Firehose](https://firehose.guide/) where you can better see your class timetable.
+* [What MAS courses do you need to take?](https://www.media.mit.edu/posts/registration-information/) <- super useful to know what MAS classes to take
+* The rest of the classes are either on the registrar or emailed out with often less than a week's notice before classes start.
+
 ### Random Other
 
 * Control the atrium lights: [LIGHTS! 💡](http://lights.media.mit.edu/atrium/)
