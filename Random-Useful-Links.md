@@ -22,6 +22,7 @@ I often find myself needing a link that was sent one time to a Media Lab website
 * [What MAS courses do you need to take?](https://www.media.mit.edu/posts/registration-information/)
 * [MAS Quick Links page](https://www.media.mit.edu/posts/quick-links/)
 * [Media Lab Logos](https://www.media.mit.edu/posts/identity-materials/)
+* [Old Internal Media Lab Wiki](https://wiki.media.mit.edu/view/Main/)
 
 
 ### Plan Courses
@@ -29,6 +30,9 @@ It's honestly really hard to choose from the hundreds of incredible courses. Hen
 * [Firehose](https://firehose.guide/) where you can better see your class timetable.
 * [What MAS courses do you need to take?](https://www.media.mit.edu/posts/registration-information/) <- super useful to know what MAS classes to take
 * The rest of the classes are either on the registrar or emailed out with often less than a week's notice before classes start.
+
+### Getting UROPs
+Undergraduate Research Opportunities Program (UROP) is a program where you hire MIT (or partner university) students to work with you on your research. They get paid and it should be a symbiotic relationship where they learn and you get extra research done. If your lab can afford more UROPs many people find success in having multiple UROPs work together. Take careful note of the UROP funding deadlines. More info on [ML Wiki on UROPs](https://wiki.media.mit.edu/view/MAS/UROP).
 
 ### Random Other
 
